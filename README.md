@@ -1,9 +1,11 @@
 # Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection
 Code for the paper *"Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection"* by Tsakalidis & Liakata (EMNLP 2020) [1]. The four folders contain the following:
-- #### data ####: 
-- ### #models ####:
-- #### evaluation_scripts####:
-- #### synthetic_data_scripts ####:
+- #### data 
+: folder with the data
+- ### #models 
+- #### evaluation_scripts
+
+- #### synthetic_data_scripts 
 
 ### Data
 First, download the word vectors from this [link](https://www.dropbox.com/sh/d9cmc8kied74hiv/AABT5z1Z67MJ7KChIXWRUvO9a?dl=0) (~250MB) and extract the *vectors.p* file within the */data/* folder. These vectors have been originally generated in [2]. 
