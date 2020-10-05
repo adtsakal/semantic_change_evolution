@@ -6,7 +6,7 @@ The four folders contain the following:
 
 
 # Data
-First, download the word vectors from this [link] (https://www.dropbox.com/sh/d9cmc8kied74hiv/AABT5z1Z67MJ7KChIXWRUvO9a?dl=0) and extract the *vectors.p* file within the */data/* folder. These vectors have been originally generated in [2]. 
+First, download the word vectors from this [link](https://www.dropbox.com/sh/d9cmc8kied74hiv/AABT5z1Z67MJ7KChIXWRUvO9a?dl=0) (~250MB) and extract the *vectors.p* file within the */data/* folder. These vectors have been originally generated in [2]. 
 
 
 
