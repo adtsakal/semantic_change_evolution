@@ -13,7 +13,7 @@ First, download the word vectors from this [link](https://www.dropbox.com/sh/d9c
 - **test_idx**: the indices of the words/vectors/labels that were used for evaluation purposes.
 
 ## Models
-This folder contains the code for the models that were tested in [1]. Each file is self-contained (i.e., you can test out a model by calling the respective "main" function). Each model has a **"TEST_ON"** variable which needs to be set. For the definition of the TEST_ON variable and its correct use, refer to [1]. It has been currently set as to operate in the full sequence of word vectors for each model invidivually (i.e., s.t. each model identifies word with altered/shifted semantics during the full time period under consideration).
+This folder contains the code for the models that were tested in [1]. Each file is self-contained (i.e., you can test out a model by calling the respective "main" function). Each model has a **"TEST_ON"** variable which needs to be set. For the definition of the TEST_ON variable and its correct use, refer to the Supplementary Material in [1]. It has been currently set as to operate in the full sequence of word vectors for each model invidivually (i.e., s.t. each model identifies word with altered/shifted semantics during the full time period under consideration).
 
 ## Evaluation Scripts
 The code for evaluating each model. Use the *"evaluation_NNs.py"* for evaluating the neural-based models; for the rest, use the *"evaluation_baselines.py"*.
