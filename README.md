@@ -6,7 +6,7 @@ Python code for the paper *"Sequential Modelling of the Evolution of Word Repres
 - **synthetic_data_scripts**: used for the synthetic data part of the paper (section 4 of the paper).
 
 ## Data
-First, download the word vectors from this [link](https://www.dropbox.com/sh/d9cmc8kied74hiv/AABT5z1Z67MJ7KChIXWRUvO9a?dl=0) (~250MB) and extract the *vectors.p* file within the */data/* folder. These vectors have been originally generated in [2] (100-dim represesntations in 14 consecutive years). The rest of the folder contains the following:
+First, download the word vectors from this [link](https://www.dropbox.com/sh/d9cmc8kied74hiv/AABT5z1Z67MJ7KChIXWRUvO9a?dl=0) (~250MB) and extract the *vectors.p* file within the */data/* folder. These vectors have been originally generated in [2] (100-dim representations in 14 consecutive years). The rest of the folder contains the following:
 - **words.p**: a list with the actual words.
 - **labels.p**: list of labels ("static" or "change"); there is one label per word.
 - **train_idx**: the indices of the words/vectors/labels that were used for training purposes.
